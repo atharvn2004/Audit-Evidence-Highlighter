@@ -1,0 +1,6 @@
+audit_results/
+__pycache__/
+*.pdf
+*.png
+*.docx
+*.xlsx
